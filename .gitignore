@@ -1,0 +1,13 @@
+# Default ignored files
+
+/.idea
+/target
+src/test/resources/feature/
+src/test/java/com/choucair/formacion/denimDefinitions/
+/.gradle/
+/out/
+/build/
+/bin/
+/.scannerwork/
+/.sonar/
+/.settings/
